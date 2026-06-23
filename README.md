@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Brand Identity Banner -->
-  <img src="https://i.ibb.co/zW97Schy/banner.gif" alt="WryriaDev Banner" width="100%" />
+  <!-- Local Repository Banner -->
+  <img src="./banner.gif" alt="WryriaDev Banner" width="100%" />
 
   <br><br>
 

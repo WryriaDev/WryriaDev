@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- Local Repository Banner -->
+  <!-- Brand Identity Banner -->
   <img src="./banner.gif" alt="WryriaDev Banner" width="100%" />
 
   <br><br>
 
   <p align="center">
-    <strong>Global Minecraft Systems Developer • Plugin & Skript Engineer • Database Solutions</strong>
+    <strong>Minecraft Systems Developer • Bot Developer • Database Integrations</strong>
   </p>
 
   <p align="center">
@@ -19,25 +19,23 @@
 
 ### 👤 About Me
 
-I am a dedicated game mechanics and systems developer specializing in advanced Minecraft server architecture, performance optimization, and data-driven solutions. I build lightweight, scalable, and highly optimized custom systems (Plugins, Skripts, and Database Integrations) engineered to withstand heavy production loads without compromise.
+Hey, I'm a Minecraft backend, systems, and Discord bot developer. I focus on building custom server mechanics, advanced bot automations, and data-driven solutions. I write clean, lightweight, and lag-free systems (Plugins, Skripts, Guard/Verification bots, and SQL integrations) designed to handle heavy production loads smoothly.
 
-- ☕ **Plugin & Skript Development:** Crafting high-performance, maintainable, and modular code structures tailored for BoxRNG, Towny, SMP, and unique custom game modes.
-- 🗄️ **Databases & Security:** Implementing SQL-backed logging panels, robust data persistence models, and automated server-side anti-exploit solutions.
-- ⚙️ **Integrations & Automation:** Building secure bridges connecting in-game actions with RCON, custom Discord bot ecosystems (JS/PY), and external web APIs.
+- ☕ **Plugins & Skripting:** Developing custom gameplay loops, core features, and optimized systems for BoxRNG, Towny, and SMP networks.
+- 🤖 **Discord Bot Development:** Building advanced Guard systems for server protection, registration/member management automations, and API-backed custom bot infrastructures (JS/PY).
+- 🗄️ **Databases & Syncing:** Setting up secure SQL structures to safely store user data and bridge Minecraft servers with Discord bots and web dashboards seamlessly.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 <p align="left">
-  <!-- Game & Core Languages -->
   <img src="https://img.shields.io/badge/Minecraft-1.8%20--%201.21.x-8A2BE2?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
 <p align="left">
-  <!-- Scripting & Other Tools -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25">
   <img src="https://img.shields.io/badge/Discord.js%20%2F%20py-5865F2?style=flat-square&logo=discord&logoColor=white" height="25">
@@ -65,9 +63,9 @@ I am a dedicated game mechanics and systems developer specializing in advanced M
 
 ### 🛠️ What I Do
 
-* **Advanced Game Mechanics:** Creating lag-free custom items, intricate custom fishing/hunting mechanics, and highly scalable server event loops.
-* **SQL Data Management:** Architecting atomic data handling pipelines to log, protect, and sync user metadata smoothly with web dashboards.
-* **Modern GUI Design:** Crafting sleek, zero-delay, and intuitive virtual menus focused on maximizing player experience and retaining clean aesthetics.
+* **Custom Server Mechanics:** Creating fully functional custom items, advanced fishing systems, and automated events that keep players engaged.
+* **Advanced Bot Automations:** Making robust Guard mechanisms to secure servers against raids, along with role and registration management panels.
+* **Modern GUI Design:** Crafting sleek, zero-delay virtual menus and interfaces tailored for the best possible player experience.
 
 ---
 

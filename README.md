@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Markana özel, minimalist Siyah/Mor banner veya logo -->
-  <img src="./banner.gif" alt="WryriaDev Banner" width="100%" />
+  <!-- Brand Identity Banner -->
+  <img src="https://i.ibb.co/zW97Schy/banner.gif" alt="WryriaDev Banner" width="100%" />
 
   <br><br>
 
@@ -17,27 +17,27 @@
 
 ---
 
-### 👤 Hakkımda
+### 👤 About Me
 
-Gelişmiş Minecraft sunucu altyapıları, performans optimizasyonu ve veri tabanlı sistemler üzerine odaklanmış bir oyun mekaniği geliştiricisiyim. Sunucuların ihtiyaç duyduğu özel ve ağır yük altında bile lag yapmayan optimize çözümleri (Plugin, Skript, Veri Tabanı Entegrasyonları) sıfırdan inşa ediyorum.
+I am a dedicated game mechanics and systems developer specializing in advanced Minecraft server architecture, performance optimization, and data-driven solutions. I build lightweight, scalable, and highly optimized custom systems (Plugins, Skripts, and Database Integrations) engineered to withstand heavy production loads without compromise.
 
-- ☕ **Plugin & Skript Geliştirme:** BoxRNG, Towny, SMP ve özel oyun modları için optimize, sürdürülebilir ve esnek kod yapıları.
-- 🗄️ **Veri Tabanı & Güvenlik:** SQL entegrasyonlu log panelleri, veri saklama çözümleri ve sunucu güvenlik otomasyonları.
-- ⚙️ **Entegrasyonlar:** Oyun içi mekanikleri RCON, Discord bot altyapıları (JS/PY) ve web API'leri ile bağlayan köprüler.
+- ☕ **Plugin & Skript Development:** Crafting high-performance, maintainable, and modular code structures tailored for BoxRNG, Towny, SMP, and unique custom game modes.
+- 🗄️ **Databases & Security:** Implementing SQL-backed logging panels, robust data persistence models, and automated server-side anti-exploit solutions.
+- ⚙️ **Integrations & Automation:** Building secure bridges connecting in-game actions with RCON, custom Discord bot ecosystems (JS/PY), and external web APIs.
 
 ---
 
-### 💻 Teknolojiler ve Araçlar
+### 💻 Tech Stack & Tools
 
 <p align="left">
-  <!-- Oyun & Dil Çekirdekleri -->
+  <!-- Game & Core Languages -->
   <img src="https://img.shields.io/badge/Minecraft-1.8%20--%201.21.x-8A2BE2?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
 <p align="left">
-  <!-- Diğer Geliştirme Araçları -->
+  <!-- Scripting & Other Tools -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25">
   <img src="https://img.shields.io/badge/Discord.js%20%2F%20py-5865F2?style=flat-square&logo=discord&logoColor=white" height="25">
@@ -46,7 +46,7 @@ Gelişmiş Minecraft sunucu altyapıları, performans optimizasyonu ve veri taba
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Statistics
 
 <div align="center">
   <table border="0">
@@ -63,14 +63,14 @@ Gelişmiş Minecraft sunucu altyapıları, performans optimizasyonu ve veri taba
 
 ---
 
-### 🛠️ Neler Üretiyorum?
+### 🛠️ What I Do
 
-* **Gelişmiş Mekanikler:** Tamamen optimize edilmiş özel eşyalar, gelişmiş balıkçılık/avcılık sistemleri ve performans dostu otomasyonlar.
-* **SQL Destekli Veri Yönetimi:** Sunucu içi verileri kayıpsız işleyen, loglayan ve harici panellere aktaran sistemler.
-* **Modern Arayüzler (GUI):** Oyuncu deneyimini ön planda tutan, gecikmesiz ve estetik sanal menü tasarımları.
+* **Advanced Game Mechanics:** Creating lag-free custom items, intricate custom fishing/hunting mechanics, and highly scalable server event loops.
+* **SQL Data Management:** Architecting atomic data handling pipelines to log, protect, and sync user metadata smoothly with web dashboards.
+* **Modern GUI Design:** Crafting sleek, zero-delay, and intuitive virtual menus focused on maximizing player experience and retaining clean aesthetics.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WryriaDev&color=8A2BE2&style=flat-square&label=Profil+Ziyaretçisi" alt="Profil Ziyaretçisi" />
+  <img src="https://komarev.com/ghpvc/?username=WryriaDev&color=8A2BE2&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
